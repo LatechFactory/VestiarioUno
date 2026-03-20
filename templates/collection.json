@@ -10,52 +10,7 @@
 {
   "sections": {
     "collection_list_LVUTij": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_6i9y7x": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/tote-bag-for-online-shop.png",
-            "subheading": "",
-            "button_label": ""
-          }
-        },
-        "collection_wQAmNG": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "button_label": ""
-          }
-        },
-        "collection_4rPNPe": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "button_label": ""
-          }
-        },
-        "collection_nB6aHL": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "button_label": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_6i9y7x",
-        "collection_wQAmNG",
-        "collection_4rPNPe",
-        "collection_nB6aHL"
-      ],
-      "custom_css": [
-        ".small-text {display: none;}"
-      ],
-      "name": "Collection list",
+      "type": "collection-list-metafields",
       "settings": {
         "title": "",
         "enable_carousel": true,
@@ -71,7 +26,10 @@
         "coll_thumb_text_align_x": "center",
         "coll_thumb_text_align_y": "center",
         "coll_button_style": "primary"
-      }
+      },
+      "custom_css": [
+        ".small-text {display: none;}"
+      ],
     },
     "main": {
       "type": "main-collection",
