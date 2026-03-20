@@ -1,0 +1,115 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "aside",
+  "name": "Overlay Group",
+  "sections": {
+    "cart-drawer": {
+      "type": "cart-drawer",
+      "settings": {
+        "show_order_note": true,
+        "show_tax_and_shipping": true,
+        "enable_direct_cart": false,
+        "cart_terms_page": "",
+        "show_backorder_text": true,
+        "show_inventory_notice": "low",
+        "show_inventory_count": "low",
+        "inventory_threshold": 10,
+        "show_announcement": true,
+        "announcement_position": "above-items",
+        "announcement_text": "Free shipping (excl. taxes) on all orders over $100. <a href=\"#\" title=\"FAQs\">Learn more</a>",
+        "announcement_icon": "box",
+        "announcement_icon_size": "small",
+        "announcement_enable_box": true,
+        "announcement_box_color": "#e3ffae",
+        "empty_icon": "bag",
+        "empty_heading": "Your bag is empty",
+        "empty_text": "<p>Looking for ideas?</p>",
+        "empty_button_text": "Start shopping",
+        "empty_button_link": "",
+        "empty_button_style": "secondary",
+        "empty_enable_custom_colors": true,
+        "empty_color_background": "#202020",
+        "empty_color_background_gradient": "",
+        "empty_color_text": "#cccccc",
+        "enable_cross_sells": true,
+        "cross_sell_title": "You may like",
+        "cross_sell_products": [
+          "asos-design-extreme-boxy-jumper-with-funnel-neck-in-black-копия",
+          "asos-design-relaxed-blazer-co-ord-in-taupe-stripe"
+        ],
+        "enable_automatic_cross_sells": true,
+        "croll_sell_color_scheme": "1"
+      }
+    },
+    "pop-up": {
+      "type": "pop-up",
+      "blocks": {
+        "204b0fb3-d343-4ff3-91af-8209c21f51e3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/01.png",
+            "image_position_desktop": "right",
+            "image_position_mobile": "top"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sign up and get 10% off your first order",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sign up to save on your first order</p>",
+            "text_size": ""
+          }
+        },
+        "newsletter-signup": {
+          "type": "newsletter-signup",
+          "settings": {
+            "button_style": "secondary"
+          }
+        },
+        "f1fd53ed-c822-4fff-be39-cb77c9ddd9cc": {
+          "type": "social",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "204b0fb3-d343-4ff3-91af-8209c21f51e3",
+        "heading",
+        "text",
+        "newsletter-signup",
+        "f1fd53ed-c822-4fff-be39-cb77c9ddd9cc"
+      ],
+      "settings": {
+        "trigger": "delay",
+        "delay": 7,
+        "show_to_guests_only": true,
+        "show_on_mobile": true,
+        "dismiss_days": 2,
+        "position": "justify-center items-center",
+        "text_align": "text-center",
+        "heading_color": "#ffffff",
+        "text_color": "#ffffff",
+        "bg_color": "#171717",
+        "bg_grad": "",
+        "tint_opacity": 50
+      }
+    }
+  },
+  "order": [
+    "cart-drawer",
+    "pop-up"
+  ]
+}

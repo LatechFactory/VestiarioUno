@@ -1,0 +1,7 @@
+
+{% comment %} run in local {% endcomment %}
+{% comment %} shopify theme dev --store=sofia-sarkany.myshopify.com {% endcomment %}
+
+{% comment %} pull/push theme {% endcomment %}
+{% comment %} shopify theme pull --store sofia-sarkany --theme 1234 {% endcomment %}
+{% comment %} shopify theme push --store sofia-sarkany --theme 1234 {% endcomment %}

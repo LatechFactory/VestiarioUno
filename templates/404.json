@@ -1,0 +1,64 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-404",
+      "disabled": true,
+      "settings": {}
+    },
+    "slideshow_dGCtdt": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Fjh9ja": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/9022a705161ff42b7879d88f1fd6d0e8.png",
+            "slide_link": "",
+            "subheading": "Error 404",
+            "title": "Page not found",
+            "heading_max_width": 15,
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "<p>Please try the following options.</p>",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "Shop all",
+            "button_url_2": "shopify://collections",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "image_Fjh9ja"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "transition": "fade",
+        "navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "accessibility_info": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_dGCtdt"
+  ]
+}

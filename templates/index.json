@@ -1,0 +1,396 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_overlay_NAMeyp": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "image": "shopify://shop_images/BANNER_VESTIARIO_UNO.webp",
+        "mobile_image": "shopify://shop_images/BANNER_VESTIARIO_UNO_MOBILE.webp",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 600,
+        "image_link": "",
+        "full_width": true,
+        "text_alignment": "center center",
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "1594980584619": {
+      "type": "background-video",
+      "blocks": {
+        "848472a6-f06a-4242-a988-ab9375b5f5ad": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Take your style",
+            "heading_max_width": 12,
+            "title_size": 100,
+            "title_size_mobile": 48,
+            "use_h1": false
+          }
+        },
+        "b28b0e71-6c42-42e2-befa-793a92b73a08": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Fresh <em>new styles</em> you'll wear on repeat</p>",
+            "enlarge_text": true
+          }
+        },
+        "df6ef69f-4e07-4e0e-a03f-2130665d2c6d": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "",
+            "button_style": "secondary"
+          }
+        },
+        "24be458d-c4ae-43fe-a143-9626dbdc777b": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Shop the collection",
+            "button_link": "",
+            "button_style": "secondary"
+          }
+        }
+      },
+      "block_order": [
+        "848472a6-f06a-4242-a988-ab9375b5f5ad",
+        "b28b0e71-6c42-42e2-befa-793a92b73a08",
+        "df6ef69f-4e07-4e0e-a03f-2130665d2c6d",
+        "24be458d-c4ae-43fe-a143-9626dbdc777b"
+      ],
+      "disabled": true,
+      "settings": {
+        "video_external": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_description": "",
+        "placeholder_image": "shopify://shop_images/banner_vestiariouno_demo_alta.jpg",
+        "text_alignment": "center center",
+        "height_desktop": 700,
+        "height_mobile": 600,
+        "full_width": true,
+        "overlay_style": "full image-overlay--bg-shadow"
+      }
+    },
+    "collection_list_ERxw3U": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_TMetkB": {
+          "type": "collection",
+          "settings": {
+            "collection": "bags",
+            "image": "shopify://shop_images/BAGS_CATEGORIA_COVER.webp",
+            "subheading": "Designed to be carried. Not shown.",
+            "button_label": ""
+          }
+        },
+        "collection_FrpK6G": {
+          "type": "collection",
+          "settings": {
+            "collection": "category-dresses",
+            "image": "shopify://shop_images/DRESSES_CATEGORIA_COVER.webp",
+            "subheading": "From Daylight to After Dark.",
+            "button_label": ""
+          }
+        },
+        "collection_UJ4WDV": {
+          "type": "collection",
+          "settings": {
+            "collection": "shoes",
+            "image": "shopify://shop_images/SHOES_CATEGORIA_COVER.webp",
+            "subheading": "Walk in. Stand Out.",
+            "button_label": ""
+          }
+        },
+        "collection_NW34Yg": {
+          "type": "collection",
+          "settings": {
+            "collection": "outerwear",
+            "image": "shopify://shop_images/OUTERWEAR_CATEGORIA_COVER.webp",
+            "subheading": "Wrap. Layer. Repeat.",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_TMetkB",
+        "collection_FrpK6G",
+        "collection_UJ4WDV",
+        "collection_NW34Yg"
+      ],
+      "custom_css": [
+        ".container--no-max {padding-left: 10px; padding-right: 10px;}",
+        ".seciton2 {padding-top: 0;}",
+        ".section2_main {padding-top: 5px; margin-top: 0px; height: 1px; margin-bottom: 0;}",
+        ".product-grid {gap: 7px;}",
+        ".h4 {font-family: \"Roboto\", sans-serif;}"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "title": "",
+        "enable_carousel": false,
+        "grid": 4,
+        "color_scheme": "1",
+        "full_width": true,
+        "coll_grid_image_shape": "tallest",
+        "coll_grid_image_position": "center center",
+        "coll_thumb_mob_per_row": "2",
+        "coll_grid_show_count": false,
+        "coll_text_position": "over-full image-overlay--bg-shadow",
+        "coll_text_position_under_mobile": false,
+        "coll_thumb_text_align_x": "center",
+        "coll_thumb_text_align_y": "center",
+        "coll_button_style": "secondary"
+      }
+    },
+    "slideshow_LHzdEC": {
+      "type": "slideshow",
+      "blocks": {
+        "image_HMJHBN": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/9022a705161ff42b7879d88f1fd6d0e8.png",
+            "slide_link": "",
+            "subheading": "For Woman",
+            "title": "Effortless style   for every day",
+            "heading_max_width": 15,
+            "title_size": 60,
+            "title_size_mobile": 30,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "Explore the collection",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        },
+        "image_dTABYD": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/smiling-man-in-formalwear.jpg",
+            "slide_link": "",
+            "subheading": "For Men",
+            "title": "Essentials  for every day",
+            "heading_max_width": 15,
+            "title_size": 60,
+            "title_size_mobile": 30,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "Explore the collection",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "image_HMJHBN",
+        "image_dTABYD"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "transition": "fade",
+        "navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "accessibility_info": ""
+      }
+    },
+    "countdown_timer_9pPync": {
+      "type": "countdown-timer",
+      "blocks": {
+        "subheading_zREgXR": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Get ready"
+          }
+        },
+        "heading_T8PkHM": {
+          "type": "heading",
+          "settings": {
+            "title": "GET READY. UPCOMING LAUNCH.",
+            "use_h1": false
+          }
+        },
+        "text_MtCjHJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>DISCOVER OUR LATEST PICKS - COMING SOON.</p>",
+            "enlarge_text": true
+          }
+        },
+        "countdown_kwbX9H": {
+          "type": "countdown",
+          "settings": {
+            "end_date": "2026-03-15",
+            "end_time": "",
+            "end_text": "",
+            "hide_on_end": false,
+            "number_size": 44,
+            "number_font": "base",
+            "divider_type": "colon",
+            "show_timer_labels": true
+          }
+        },
+        "button_3LjmCc": {
+          "type": "button",
+          "settings": {
+            "button_label": "Notify me when it launches",
+            "button_link": "",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_zREgXR",
+        "heading_T8PkHM",
+        "text_MtCjHJ",
+        "countdown_kwbX9H",
+        "button_3LjmCc"
+      ],
+      "custom_css": [],
+      "name": "Countdown timer",
+      "settings": {
+        "show_image": true,
+        "image": "shopify://shop_images/Firefly_1.webp",
+        "image_link": "",
+        "show_image_space": false,
+        "image_position": "left",
+        "text_alignment": "center",
+        "color_scheme": "2"
+      }
+    },
+    "product_list_t3E3TT": {
+      "type": "product-list",
+      "disabled": true,
+      "name": "Product list",
+      "settings": {
+        "title": "Best Sellers",
+        "product_list": [
+          "asos-design-extreme-boxy-jumper-with-funnel-neck-in-black-копия",
+          "asos-design-supersoft-seam-front-longline-roll-neck-co-ord-in-charcoal-marl-charcoal",
+          "faux-suede-scoop-tote-bag-in-khaki",
+          "moonboot-icon-low-quilt-boots-in-grey"
+        ],
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "color_scheme": "default",
+        "full_width": true
+      }
+    },
+    "testimonials_4GcTaa": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_ymj84D": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "“Great quality and perfect fit. You can really feel the attention to detail in every piece.”",
+            "author": "Danielle J.",
+            "image": "shopify://shop_images/product2.2.png",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "testimonial_DFAzYh": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "“Comfortable, well-made and easy to wear every day. Exactly what I was looking for.”",
+            "author": "Daniel R.",
+            "image": "shopify://shop_images/JACKETS_COVER.jpg",
+            "image_caption": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_ymj84D",
+        "testimonial_DFAzYh"
+      ],
+      "disabled": true,
+      "name": "Testimonials",
+      "settings": {
+        "title": "WHAT OUR CUSTOMERS SAY",
+        "layout": "image-right",
+        "text_caps": false,
+        "quote_text_size": 30,
+        "quote_text_size_mobile": 20,
+        "image_shape": "square",
+        "color_scheme": "default",
+        "use_custom_star_rating_color": false,
+        "star_rating_color": "#e9a80a",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "scrolling_banner_FkTKkw": {
+      "type": "scrolling-banner",
+      "blocks": {
+        "text_BGcCPN": {
+          "type": "text",
+          "settings": {
+            "text": "Timeless Elegance",
+            "color": "#707070",
+            "link": "",
+            "use_h1": false,
+            "stencil_all_text": false,
+            "stencil_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_BGcCPN"
+      ],
+      "disabled": true,
+      "name": "Scrolling banner",
+      "settings": {
+        "full_width": true,
+        "color_scheme": "default",
+        "text_size": 50,
+        "vertical_padding": 20,
+        "speed": 35,
+        "direction": "left",
+        "font": "heading",
+        "space": 50
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_NAMeyp",
+    "1594980584619",
+    "collection_list_ERxw3U",
+    "slideshow_LHzdEC",
+    "countdown_timer_9pPync",
+    "product_list_t3E3TT",
+    "testimonials_4GcTaa",
+    "scrolling_banner_FkTKkw"
+  ]
+}

@@ -1,0 +1,150 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "collection_list_LVUTij": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_6i9y7x": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/tote-bag-for-online-shop.png",
+            "subheading": "",
+            "button_label": ""
+          }
+        },
+        "collection_wQAmNG": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "button_label": ""
+          }
+        },
+        "collection_4rPNPe": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "button_label": ""
+          }
+        },
+        "collection_nB6aHL": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_6i9y7x",
+        "collection_wQAmNG",
+        "collection_4rPNPe",
+        "collection_nB6aHL"
+      ],
+      "custom_css": [
+        ".small-text {display: none;}"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "title": "",
+        "enable_carousel": true,
+        "grid": 4,
+        "color_scheme": "1",
+        "full_width": true,
+        "coll_grid_image_shape": "square",
+        "coll_grid_image_position": "center center",
+        "coll_thumb_mob_per_row": "2",
+        "coll_grid_show_count": true,
+        "coll_text_position": "over-shadow",
+        "coll_text_position_under_mobile": false,
+        "coll_thumb_text_align_x": "center",
+        "coll_thumb_text_align_y": "center",
+        "coll_button_style": "primary"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_title": true,
+        "show_image_behind_heading": true,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_desc_pos": "above",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": true,
+        "enable_filtering": true,
+        "collapse_tag_sidebar_by_default": true,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "filter_two_columns": false,
+        "button_grid_filter_name": "Size,Taille,Größe",
+        "auto_apply_hide_unavailable": true,
+        "enable_sticky_filter": true,
+        "show_sort": true,
+        "sort_show_featured": false,
+        "sort_show_best": true,
+        "sort_show_alpha": true,
+        "sort_show_price": true,
+        "sort_show_date": true,
+        "related_collections": [],
+        "related_collections_style": "buttons",
+        "rel_coll_gall_aspect_ratio": "1",
+        "image_position": "center center",
+        "rel_coll_gall_enable_margin": true,
+        "rel_coll_gall_full_width": false,
+        "rel_coll_gall_overlay_style": "shadow",
+        "rel_coll_gall_text_alignment": "center center",
+        "rel_coll_grid_mobile": "2"
+      }
+    },
+    "product_list_APEtcG": {
+      "type": "product-list",
+      "disabled": true,
+      "name": "Product list",
+      "settings": {
+        "title": "",
+        "product_list": [
+          "test"
+        ],
+        "show_vendor": false,
+        "enable_carousel": false,
+        "grid": 4,
+        "color_scheme": "default",
+        "full_width": true
+      }
+    },
+    "product_list_gBUeqG": {
+      "type": "product-list",
+      "disabled": true,
+      "name": "Product list",
+      "settings": {
+        "title": "Product list",
+        "product_list": [],
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "color_scheme": "default",
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "collection_list_LVUTij",
+    "main",
+    "product_list_APEtcG",
+    "product_list_gBUeqG"
+  ]
+}
