@@ -12,7 +12,8 @@
     "main": {
       "type": "main-page",
       "settings": {
-        "full_width": false
+        "show_page_title": true,
+        "full_width": true
       }
     }
   },
