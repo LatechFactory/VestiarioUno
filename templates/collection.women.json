@@ -19,7 +19,7 @@
         "height_desktop": 500,
         "height_mobile": 600,
         "image_link": "",
-        "full_width": false,
+        "full_width": true,
         "text_alignment": "center center",
         "mobile_overlay_under": false,
         "overlay_style": "shadow"
