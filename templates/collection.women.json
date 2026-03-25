@@ -16,7 +16,7 @@
         "image": "shopify://shop_images/BANNER_WOMENSWEAR.webp",
         "mobile_image": "shopify://shop_images/BANNER_WOMENSWEAR_MOBILE.webp",
         "height": "adapt",
-        "height_desktop": 600,
+        "height_desktop": 500,
         "height_mobile": 600,
         "image_link": "",
         "full_width": true,
