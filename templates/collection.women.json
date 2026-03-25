@@ -68,6 +68,7 @@
         "collection_4rPNPe",
         "collection_nB6aHL"
       ],
+      "disabled": true,
       "custom_css": [
         ".small-text {display: none;}"
       ],
