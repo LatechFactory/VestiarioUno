@@ -11,6 +11,9 @@
   "sections": {
     "collection_list_LVUTij": {
       "type": "collection-list-metafields",
+      "custom_css": [
+        ".small-text {display: none;}"
+      ],
       "settings": {
         "title": "",
         "enable_carousel": true,
@@ -26,16 +29,13 @@
         "coll_thumb_text_align_x": "center",
         "coll_thumb_text_align_y": "center",
         "coll_button_style": "primary"
-      },
-      "custom_css": [
-        ".small-text {display: none;}"
-      ],
+      }
     },
     "main": {
       "type": "main-collection",
       "settings": {
         "show_title": true,
-        "show_image_behind_heading": true,
+        "show_image_behind_heading": false,
         "heading_image_height": "medium",
         "overlay_style": "shadow",
         "coll_desc_pos": "above",
