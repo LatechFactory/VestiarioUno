@@ -90,7 +90,7 @@
         "collection_TMetkB": {
           "type": "collection",
           "settings": {
-            "collection": "category-bags",
+            "collection": "bags",
             "image": "shopify://shop_images/BAGS_CATEGORIA_COVER.webp",
             "subheading": "Designed to be carried. Not shown.",
             "button_label": ""
